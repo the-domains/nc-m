@@ -1,4 +1,4 @@
-layout_spectrum: 0
+layout_spectrum: 0.4236546
 name: 'NC&M'
 purpose: {}
 analytics: {}
@@ -17,10 +17,10 @@ collections:
       path: '/:title/'
 cta: {}
 color:
-  brandStrength: 0.756757
-  lightness: 0.7252816
-  saturation: 0.772841
-  rhythmicContrast: 0.7165207
+  brandStrength: 1
+  lightness: 0.4962453
+  saturation: 0.4937422
+  rhythmicContrast: 0.5062578
   brandColors:
     - '#000000'
     - '#807304'
