@@ -6,12 +6,12 @@ color:
     - '#000000'
     - '#E8D008'
     - '#000000'
-  brandStrength: 0.284628
-  lightness: 0.496245
-  rhythmicContrast: 0.506257
-  saturation: 0.493742
+  brandStrength: 0.339527
+  lightness: 1
+  rhythmicContrast: 1
+  saturation: 0.997466
 cta: {}
-layout_spectrum: 0.4236546
+layout_spectrum: 0.17652
 name: 'NC&M'
 opengraph: {}
 purpose: {}
