@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.49920240043818587
-  lightness: 0.6178697349521202
-  rhythmicContrast: 0.0881705151508656
-  saturation: 0.04996052262402173
+    - '#000000'
+    - '#807304'
+    - '#000000'
+    - '#E8D008'
+    - '#000000'
+  brandStrength: 0.499202
+  lightness: 0.617869
+  rhythmicContrast: 0.08817
+  saturation: 0.04996
 cta: {}
-layout_spectrum: 0.3596279751705722
+layout_spectrum: 0.883446
 name: 'NC&M'
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.3980661749882294
+typography_spectrum: 0.817568
