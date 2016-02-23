@@ -6,10 +6,10 @@ color:
     - '#000000'
     - '#E8D008'
     - '#000000'
-  brandStrength: 0.499202
-  lightness: 0.617869
-  rhythmicContrast: 0.08817
-  saturation: 0.04996
+  brandStrength: 0.756757
+  lightness: 0.382601
+  rhythmicContrast: 0.3125
+  saturation: 0.205236
 cta: {}
 layout_spectrum: 0.883446
 name: 'NC&M'
