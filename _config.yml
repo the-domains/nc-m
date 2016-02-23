@@ -1,30 +1,18 @@
-layout_spectrum: 0.4236546
-name: 'NC&M'
-purpose: {}
 analytics: {}
-opengraph: {}
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-cta: {}
 color:
-  brandStrength: 1
-  lightness: 0.4962453
-  saturation: 0.4937422
-  rhythmicContrast: 0.5062578
   brandColors:
     - '#000000'
     - '#807304'
     - '#000000'
     - '#E8D008'
     - '#000000'
+  brandStrength: 0.284628
+  lightness: 0.496245
+  rhythmicContrast: 0.506257
+  saturation: 0.493742
+cta: {}
+layout_spectrum: 0.4236546
+name: 'NC&M'
+opengraph: {}
+purpose: {}
 typography_spectrum: 0.817568
